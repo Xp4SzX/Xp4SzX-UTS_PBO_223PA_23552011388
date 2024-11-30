@@ -44,6 +44,6 @@ public class AsuransiKesehatan extends JenisAsuransi {
 ## Demo Proyek
 
 <ul>
-  <li>Github: <a href="https://github.com/Xp4SzX/Xp4SzX-UTS_PBO_223PA_23552011388"></a>Github</li>
+  <li>Github: <a href="https://github.com/Xp4SzX/Xp4SzX-UTS_PBO_223PA_23552011388">Github</a></li>
   <li>Youtube: <a href="https://drive.google.com/file/d/1COwItS0P9pWhfqBUwnTEN0tBupZLHntj/view?usp=drive_link">Gdrive</a></li>
 </ul>
