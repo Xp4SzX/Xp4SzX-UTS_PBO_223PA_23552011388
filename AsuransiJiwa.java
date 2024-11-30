@@ -20,7 +20,6 @@ public class AsuransiJiwa extends JenisAsuransi {
 
     @Override
     public double hitungPremi() {
-        // Perhitungan premi berdasarkan santunan jiwa (contoh: 15% tambahan)
         return super.getPremi() * 1.15;
     }
 }
