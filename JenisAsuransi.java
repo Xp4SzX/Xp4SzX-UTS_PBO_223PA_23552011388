@@ -40,6 +40,6 @@ public class JenisAsuransi extends LayananAsuransi {
 
     @Override
     public double hitungPremi() {
-        return premi; // Default premi
+        return premi; 
     }
 }
