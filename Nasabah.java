@@ -1,6 +1,4 @@
-
 package com.mycompany.uts2;
-
 // Encapsulation
 public class Nasabah {
     private String nama;
